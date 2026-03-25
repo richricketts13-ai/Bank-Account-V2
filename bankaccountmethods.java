@@ -31,6 +31,8 @@ public class bankaccountmethods {
                 case 3 -> showBalance(balance);
                 case 4 -> viewTransactions(tList);
                 case 5 -> {
+                    System.out.println("Thanks for using");
+                    break;
                 }
                     
             }
